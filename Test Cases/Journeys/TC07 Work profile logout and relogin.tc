@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Exercise work forms, profile navigation, logout protection, and a second login in one browser.</description>
+   <name>TC07 Work profile logout and relogin</name>
+   <tag>session,logout,relogin,e2e</tag>
+   <comment></comment>
+   <origin>SCRIPT</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6100000-0000-4000-8000-000000000007</testCaseGuid>
+</TestCaseEntity>

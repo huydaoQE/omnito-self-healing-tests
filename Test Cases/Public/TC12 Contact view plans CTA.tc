@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Contact page links back to Plans.</description>
+   <name>TC12 Contact view plans CTA</name><tag>omnito-web</tag><comment></comment>
+   <recordOption>OTHER</recordOption><testCaseGuid>f3000000-0000-4000-8000-000000000012</testCaseGuid>
+</TestCaseEntity>

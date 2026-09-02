@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Intentional one-token WebUI keyword typo for AI script self-healing. Do not add to normal regression suites.</description>
+   <name>TC01 Misspelled WebUI keyword</name>
+   <tag>script-self-healing-fixture,intentional-failure</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d533ae0-a6dc-4b89-89ef-b63701c24801</testCaseGuid>
+</TestCaseEntity>

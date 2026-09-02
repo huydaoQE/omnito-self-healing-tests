@@ -1,0 +1,24 @@
+/.gradle/
+
+/bin/
+
+/Reports/
+
+/Libs/
+
+/output/
+
+!/output/.gitkeep
+/build/
+
+/.classpath
+
+/.project
+
+/.cache/
+
+.DS_Store
+
+# Keep machine-specific credentials out of source control.
+Profiles/default.glbl
+settings/internal/com.kms.katalon.integration.analytics.properties

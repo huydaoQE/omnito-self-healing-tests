@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Intentional stale locator for AI script self-healing.</description>
+   <name>TC01 Stale home hero locator</name><tag>omnito-web</tag><comment></comment>
+   <recordOption>OTHER</recordOption><testCaseGuid>f3000000-0000-4000-8000-000000000057</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Production flow variant 004.</description>
+   <name>TC_004</name>
+   <tag>script-healing,prod,l1</tag>
+   <comment></comment>
+   <origin>SCRIPT</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c7100000-0000-4000-8000-000000000004</testCaseGuid>
+</TestCaseEntity>

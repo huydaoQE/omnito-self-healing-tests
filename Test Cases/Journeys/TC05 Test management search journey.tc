@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign in and exercise searches and filters across test cases, plans, executions, and reports.</description>
+   <name>TC05 Test management search journey</name>
+   <tag>search,filters,authenticated,e2e</tag>
+   <comment></comment>
+   <origin>SCRIPT</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6100000-0000-4000-8000-000000000005</testCaseGuid>
+</TestCaseEntity>

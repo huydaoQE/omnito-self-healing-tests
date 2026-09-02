@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Intentional variable-name typo with a nearby declared variable for deterministic script repair.</description>
+   <name>TC02 Variable typo in heading assertion</name>
+   <tag>script-self-healing-fixture,intentional-failure</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d533ae0-a6dc-4b89-89ef-b63701c24802</testCaseGuid>
+</TestCaseEntity>

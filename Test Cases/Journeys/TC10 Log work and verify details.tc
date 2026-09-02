@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login, submit a uniquely named work log, verify its table row, then reopen it and check the saved values.</description>
+   <name>TC10 Log work and verify details</name>
+   <tag>login,work-log,create,verify</tag>
+   <comment>This test intentionally leaves the verified work-log record in the selected project.</comment>
+   <origin>SCRIPT</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6100000-0000-4000-8000-000000000010</testCaseGuid>
+</TestCaseEntity>

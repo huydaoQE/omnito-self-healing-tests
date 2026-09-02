@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_auth-error</name>
+   <tag></tag>
+   <elementGuidId>a32ce06d-0940-4d08-8155-c319e183146b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#auth-error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'auth-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Password must be between 1 and 128 characters.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a4b92fd5-63e2-4667-b27b-19c53732dd23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>auth-error</value>
+      <webElementGuid>24d87016-2e03-4dd3-bf6b-ecdc1ddc8e23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-md bg-red-50 px-3 py-2 text-sm text-destructive</value>
+      <webElementGuid>79c68ac5-7269-4826-a613-09218ef4ba8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>dd13780e-5719-4e6e-9604-8dbaeb87a614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password must be between 1 and 128 characters.</value>
+      <webElementGuid>65fbcf13-115b-4829-b91a-3a6ba0344eb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8ad5271ff040280b7b79b452e1d1f9ae</value>
+      <webElementGuid>5fdda332-ed8e-4827-aaa2-c14738527b4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'auth-error']</value>
+      <webElementGuid>45ef1c74-7169-4d81-8bca-b68a6ce86586</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'auth-error']</value>
+      <webElementGuid>dd2cb55a-3448-422d-a310-b5045e68b024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'auth-error' and (text() = 'Password must be between 1 and 128 characters.' or . = 'Password must be between 1 and 128 characters.')]</value>
+      <webElementGuid>ddbe7213-1acb-4a06-a1e0-506caff0f398</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

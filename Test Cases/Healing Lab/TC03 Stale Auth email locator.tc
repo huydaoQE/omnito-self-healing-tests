@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Intentional stale email id for AI script self-healing.</description>
+   <name>TC03 Stale Auth email locator</name><tag>omnito-web</tag><comment></comment>
+   <recordOption>OTHER</recordOption><testCaseGuid>f3000000-0000-4000-8000-000000000059</testCaseGuid>
+</TestCaseEntity>

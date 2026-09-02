@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Exercise negative login rows from CSV.</description>
+   <name>TC07 Data driven negative logins</name><tag>omnito-web</tag><comment></comment>
+   <recordOption>OTHER</recordOption><testCaseGuid>f3000000-0000-4000-8000-000000000023</testCaseGuid>
+</TestCaseEntity>

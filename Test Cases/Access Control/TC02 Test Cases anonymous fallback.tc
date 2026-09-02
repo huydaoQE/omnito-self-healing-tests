@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify anonymous Test Cases access does not expose project data.</description>
+   <name>TC02 Test Cases anonymous fallback</name><tag>omnito-web</tag><comment></comment>
+   <recordOption>OTHER</recordOption><testCaseGuid>f3000000-0000-4000-8000-000000000025</testCaseGuid>
+</TestCaseEntity>

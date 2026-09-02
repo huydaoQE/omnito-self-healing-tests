@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Intentional PublicRoutes column-name drift. The current data file exposes path, not route.</description>
+   <name>TC04 Dataset column drift</name>
+   <tag>script-self-healing-fixture,intentional-failure,data</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d533ae0-a6dc-4b89-89ef-b63701c24804</testCaseGuid>
+</TestCaseEntity>

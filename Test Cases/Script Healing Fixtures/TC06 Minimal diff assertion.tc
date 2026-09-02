@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Intentional outdated assertion with unrelated sentinel logic to verify a minimal, byte-preserving repair.</description>
+   <name>TC06 Minimal diff assertion</name>
+   <tag>script-self-healing-fixture,intentional-failure,guardrail</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d533ae0-a6dc-4b89-89ef-b63701c24806</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,5 @@
+title,priority,status,precondition,action,expectedResult
+Login with valid account,high,active,User has an active account,Enter valid credentials and submit,Dashboard is displayed
+Create a test plan,medium,draft,User is authenticated,Create a plan with required fields,Plan appears in the list
+Search test cases,low,active,Test cases exist,Search by a partial title,Matching test cases are shown
+Generate tests with AI,high,active,Project knowledge exists,Submit a product requirement,Draft test cases are generated

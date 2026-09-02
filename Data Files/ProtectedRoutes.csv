@@ -1,0 +1,12 @@
+name,path,unauthenticatedBehavior
+Dashboard,/dashboard,AUTH_REDIRECT
+Test Cases,/test-cases,HOME_FALLBACK
+Test Plans,/test-plans,HOME_FALLBACK
+Executions,/execution,HOME_FALLBACK
+Reports,/reports,HOME_FALLBACK
+Defects,/defects,HOME_FALLBACK
+Knowledge,/knowledge,HOME_FALLBACK
+Settings,/settings,HOME_FALLBACK
+AI Generator,/ai-generator,HOME_FALLBACK
+Work Log,/work/log,HOME_FALLBACK
+Work Statistics,/work/statistics,HOME_FALLBACK

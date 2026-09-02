@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Intentional route drift from /plans to /pricing. The assertion must remain strict.</description>
+   <name>TC05 Outdated route</name>
+   <tag>script-self-healing-fixture,intentional-failure,navigation</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d533ae0-a6dc-4b89-89ef-b63701c24805</testCaseGuid>
+</TestCaseEntity>

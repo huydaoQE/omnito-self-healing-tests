@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify theme toggle, profile access and logout controls.</description>
+   <name>TC03 Theme profile and logout</name><tag>omnito-web</tag><comment></comment>
+   <recordOption>OTHER</recordOption><testCaseGuid>f3000000-0000-4000-8000-000000000037</testCaseGuid>
+</TestCaseEntity>

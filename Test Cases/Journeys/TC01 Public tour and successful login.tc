@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate the public product pages, launch Omnito, sign in, and verify the dashboard.</description>
+   <name>TC01 Public tour and successful login</name>
+   <tag>navigation,e2e,login</tag>
+   <comment></comment>
+   <origin>SCRIPT</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6100000-0000-4000-8000-000000000001</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Exercise header and footer links before signing in from the public home page.</description>
+   <name>TC03 Header footer round trip and login</name>
+   <tag>navigation,footer,login,e2e</tag>
+   <comment></comment>
+   <origin>SCRIPT</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6100000-0000-4000-8000-000000000003</testCaseGuid>
+</TestCaseEntity>

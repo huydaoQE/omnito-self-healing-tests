@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify reports expose the PDF generation action.</description>
+   <name>TC12 Reports PDF action</name><tag>omnito-web</tag><comment></comment>
+   <recordOption>OTHER</recordOption><testCaseGuid>f3000000-0000-4000-8000-000000000046</testCaseGuid>
+</TestCaseEntity>

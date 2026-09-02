@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Intentional missing custom-keyword argument; the expected title fragment is present in local script context.</description>
+   <name>TC03 Custom keyword argument drift</name>
+   <tag>script-self-healing-fixture,intentional-failure,custom-keyword</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d533ae0-a6dc-4b89-89ef-b63701c24803</testCaseGuid>
+</TestCaseEntity>

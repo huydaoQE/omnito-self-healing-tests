@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify product-tour CTA opens documentation.</description>
+   <name>TC06 Watch product tour CTA</name><tag>omnito-web</tag><comment></comment>
+   <recordOption>OTHER</recordOption><testCaseGuid>f3000000-0000-4000-8000-000000000006</testCaseGuid>
+</TestCaseEntity>

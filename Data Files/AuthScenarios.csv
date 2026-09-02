@@ -1,0 +1,6 @@
+scenario,email,password,expected
+Empty credentials,,,VALIDATION_ERROR
+Invalid email,not-an-email,Password123!,VALIDATION_ERROR
+Missing password,qa@example.com,,VALIDATION_ERROR
+Wrong password,qa@example.com,DefinitelyWrong123!,AUTH_ERROR
+Overlong email,abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz@example.com,Password123!,AUTH_ERROR

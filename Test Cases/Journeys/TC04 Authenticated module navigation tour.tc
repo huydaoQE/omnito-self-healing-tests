@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Maintain one authenticated session while visiting every major Omnito module.</description>
+   <name>TC04 Authenticated module navigation tour</name>
+   <tag>navigation,authenticated,e2e</tag>
+   <comment></comment>
+   <origin>SCRIPT</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6100000-0000-4000-8000-000000000004</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify anonymous Knowledge access does not expose project data.</description>
+   <name>TC07 Knowledge anonymous fallback</name><tag>omnito-web</tag><comment></comment>
+   <recordOption>OTHER</recordOption><testCaseGuid>f3000000-0000-4000-8000-000000000030</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify authenticated navigation remains valid across browser back, forward, and refresh operations.</description>
+   <name>TC08 Session survives history and refresh</name>
+   <tag>session,navigation,history,e2e</tag>
+   <comment></comment>
+   <origin>SCRIPT</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6100000-0000-4000-8000-000000000008</testCaseGuid>
+</TestCaseEntity>

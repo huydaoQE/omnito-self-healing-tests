@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description>Source-control-safe profile template.</description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Omnito environment under test.</description>
+      <initValue>'https://omnito.dev'</initValue>
+      <name>baseUrl</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Default wait timeout in seconds.</description>
+      <initValue>15</initValue>
+      <name>defaultTimeout</name>
+      <protected>false</protected>
+      <valueType>NUMBER</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Short assertion timeout in seconds.</description>
+      <initValue>5</initValue>
+      <name>shortTimeout</name>
+      <protected>false</protected>
+      <valueType>NUMBER</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Enable authenticated and end-to-end journey flows.</description>
+      <initValue>false</initValue>
+      <name>authenticatedFlowsEnabled</name>
+      <protected>false</protected>
+      <valueType>BOOLEAN</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Valid Omnito email. Configure locally or override at runtime.</description>
+      <initValue>''</initValue>
+      <name>validEmail</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Valid Omnito password. Keep empty in source control and override at runtime.</description>
+      <initValue>''</initValue>
+      <name>validPassword</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Katalon-encrypted Omnito password. Configure only in the ignored local profile.</description>
+      <initValue>''</initValue>
+      <name>encryptedPassword</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Prefix used by create/edit test data so cleanup is easy.</description>
+      <initValue>'KS Automation'</initValue>
+      <name>artifactPrefix</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login, create a uniquely named bug status in Project Settings, verify it, delete it, and verify cleanup.</description>
+   <name>TC09 Configure custom status lifecycle</name>
+   <tag>settings,create-delete,login,status</tag>
+   <comment>This test requires Test Lead permission and cleans up the status it creates.</comment>
+   <origin>SCRIPT</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6100000-0000-4000-8000-000000000009</testCaseGuid>
+</TestCaseEntity>

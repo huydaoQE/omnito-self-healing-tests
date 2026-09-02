@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fill complex defect, knowledge, AI generation, and invite forms without submitting destructive changes.</description>
+   <name>TC06 Quality knowledge and AI forms</name>
+   <tag>forms,authenticated,e2e,non-destructive</tag>
+   <comment></comment>
+   <origin>SCRIPT</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6100000-0000-4000-8000-000000000006</testCaseGuid>
+</TestCaseEntity>

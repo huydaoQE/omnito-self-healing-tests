@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create a named folder in the Test Cases tree.</description>
+   <name>TC06 Create test case folder</name><tag>omnito-web</tag><comment></comment>
+   <recordOption>OTHER</recordOption><testCaseGuid>f3000000-0000-4000-8000-000000000040</testCaseGuid>
+</TestCaseEntity>

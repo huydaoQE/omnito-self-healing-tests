@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the secondary product CTA opens Docs.</description>
+   <name>TC07 Explore product CTA</name><tag>omnito-web</tag><comment></comment>
+   <recordOption>OTHER</recordOption><testCaseGuid>f3000000-0000-4000-8000-000000000007</testCaseGuid>
+</TestCaseEntity>

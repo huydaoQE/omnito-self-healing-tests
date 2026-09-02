@@ -1,0 +1,4 @@
+title,type,category,priority,summary,steps,expected,actual
+Login validation message overlaps form,bug,functional,medium,Validation alert is difficult to read,Submit invalid credentials,Alert is readable and associated with the form,Alert overlaps the submit button
+Plans page CTA opens wrong route,bug,navigation,high,Plan CTA does not reach authentication,Open Plans and choose a plan,Authentication page opens,Landing page remains visible
+Report export is unavailable,improvement,reporting,low,PDF export should explain unavailable state,Open Reports and request PDF,A clear download or error is shown,No feedback is displayed

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify landing page at mobile and desktop viewports.</description>
+   <name>TC15 Responsive landing page</name><tag>omnito-web</tag><comment></comment>
+   <recordOption>OTHER</recordOption><testCaseGuid>f3000000-0000-4000-8000-000000000015</testCaseGuid>
+</TestCaseEntity>
