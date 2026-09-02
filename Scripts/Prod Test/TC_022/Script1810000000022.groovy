@@ -21,6 +21,7 @@ try {
     WebUI.click(findTestObject('Page_Auth/button_Submit'))
     CustomKeywords.'omnito.AuthKeywords.verifyAuthenticationError'()
     WebUI.clearText(findTestObject('Page_Auth/input_Email'))
+    WebUI.verifyElementAttributeValue(findTestObject('Page_Auth/input_Password'), 'value', '', 1)
     CustomKeywords.'omnito.AuthKeywords.login'()
     WebUI.verifyElementPresent(findTestObject('App/Dashboard/page_Dashboard'), GlobalVariable.defaultTimeout)
 } finally {

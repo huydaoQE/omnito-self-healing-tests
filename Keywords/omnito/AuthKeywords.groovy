@@ -4,7 +4,6 @@ import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
 import com.kms.katalon.core.annotation.Keyword
 import com.kms.katalon.core.util.KeywordUtil
-import com.kms.katalon.core.model.FailureHandling
 import com.kms.katalon.core.testobject.ConditionType
 import com.kms.katalon.core.testobject.TestObject
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
@@ -65,6 +64,6 @@ class AuthKeywords {
     void verifyAuthenticationError() {
         TestObject error = findTestObject('Page_Auth/p_Auth_Error')
         error.addProperty('xpath', ConditionType.EQUALS, "//*[@id='auth-error' or @role='alert' or contains(@class,'error') or contains(@class,'alert')]")
-        WebUI.verifyElementPresent(error, GlobalVariable.defaultTimeout, FailureHandling.OPTIONAL)
+        WebUI.verifyElementPresent(error, GlobalVariable.defaultTimeout)
     }
 }

@@ -6,10 +6,6 @@ import com.kms.katalon.core.testobject.TestObject
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable
 
-if (!CustomKeywords.'omnito.AuthKeywords.requireCredentials'()) {
-    return
-}
-
 WebUI.openBrowser('')
 try {
     WebUI.navigateToUrl(GlobalVariable.baseUrl)
@@ -18,6 +14,7 @@ try {
     for (int row = 2; row <= 4; row++) {
         String path = routes.getValue('path', row) + '-legacy'
         CustomKeywords.'omnito.BrowserKeywords.navigateTo'(path)
+        WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.baseUrl + routes.getValue('path', row), false)
         WebUI.verifyTextPresent(routes.getValue('expectedCopy', row), false)
     }
 } finally {
